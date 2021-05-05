@@ -47,3 +47,8 @@ rm -Rf arquivo.log
 [Site](http://pudim.com.br/)
 
 [Imagem](/img/img_01.png)
+
+## Imagens
+![](/img/img_01.png)
+
+_end of README.md_
